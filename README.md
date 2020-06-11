@@ -6,4 +6,4 @@ AutoIt v3 is a freeware BASIC-like scripting language designed for automating th
 
 Scripts I've made so far include:
 
-- [Image Search + Auto Clicker]()
+- [Image Search + Auto Clicker](https://github.com/stefanman125/AutoIt-Scripts/tree/master/Image%20Search%20%2B%20Auto%20Clicker)
